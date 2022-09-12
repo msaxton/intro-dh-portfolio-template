@@ -9,3 +9,4 @@ permalink: /programming-historian-lessons/
       <h2><a href="{{ lesson.url | prepend: site.baseurl}}">{{ lesson.title }}</a></h2>
       <p>{{ lesson.description }}<p>
   {% endfor %}
+<!---Note: Liquid syntax seems to close open tags without adding them--->

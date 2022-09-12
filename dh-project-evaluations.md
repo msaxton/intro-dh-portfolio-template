@@ -4,11 +4,10 @@ title: Project Evaluations
 permalink: /dh-project-evaluations/
 ---
 
-<ul>
+<div>
   {% for evaluation in site.evaluations %}
-    <li>
+    <div>
       <h2><a href="{{ evaluation.url | prepend: site.baseurl }}">{{ evaluation.title }}</a></h2>
       <p>{{ evaluation.description }}<p>
-    </li>
   {% endfor %}
-</ul>
+<!---Note: Liquid syntax seems to close open tags without adding them--->

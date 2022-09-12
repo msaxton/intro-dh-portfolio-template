@@ -4,11 +4,10 @@ title: Coding Exercises
 permalink: /coding-exercises/
 ---
 
-<ul>
+<div>
   {% for exercise in site.exercises %}
-    <li>
+    <div>
       <h2><a href="{{ exercise.url | prepend: site.baseurl }}">{{ exercise.title }}</a></h2>
       <p>{{ exercise.description }}<p>
-    </li>
   {% endfor %}
-</ul>
+<!---Note: Liquid syntax seems to close open tags without adding them--->
