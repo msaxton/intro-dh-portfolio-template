@@ -15,7 +15,7 @@ The basic search feature allows for a number of different filters such as "Ficti
 
 As a working example, I searched for "atheism," "atheist," "agnosticism," and "agnotic." "Atheism" and "atheist" reach something of a peak a little after 1800 CE whereas "agnosticism" and "agnostic" reach a much smaller peak a little before 1900 CE. It also appears that there is a slight up tick in each term right around 2000 CE. Perhaps most telling is that there is a steep increase in the use of the term "atheism" from about 1770 CE to about 1803 CE. Here is an example of that search:
 
-![png](/assets/bookworm-search.png)
+![png](../assets/bookworm-search.png)
 
 This tool may have a good sue case for cultural historians who want the "big picture" of when various terms are used, how frequently they are used, and if they are used in corelation with other important terms. In the example above, the cultural historian would be alerted to the importance of 1770 CE to 1803 CE in the discourse about atheism. Of course, what this tool does not show is the context in which the term is used. One would have to find a different tool for that.
 
