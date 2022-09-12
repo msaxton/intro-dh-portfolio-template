@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Introduction to stylometry with Python
-permalink: /lessons-stylometry
 description: This lesson uses Python to apply stylometric analysis to the Federalist Papers to determine authorship of a few of the papers.
 ---
 ## Source

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Exercises Ch. 2
-permalink: /exercises-ch-2
 description: Select exercises from Python Crash Course
 ---
 
