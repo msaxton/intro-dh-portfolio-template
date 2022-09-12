@@ -44,7 +44,7 @@ header_pages:
 collections:
   evaluations:
     output: true
-    permalink: /:collection/:name
+    permalink: /evaluations/:name
   exercises:
     output: true
   lessons: 
