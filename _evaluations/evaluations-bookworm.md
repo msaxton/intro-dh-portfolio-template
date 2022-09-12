@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: page
 title: HathiTrust Bookworm
 permalink: /evaluations-bookworm/
+description: Here I evaluate HathiTrust's Bookworm tool.
 ---
 ## Source
 

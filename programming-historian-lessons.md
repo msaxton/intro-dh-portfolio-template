@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Lessons
 permalink: /programming-historian-lessons/
 ---
-<h1>Programming Historian Lessons</h1>
 
 <ul>
   {% for lesson in site.lessons %}

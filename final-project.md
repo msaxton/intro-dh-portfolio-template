@@ -1,6 +1,5 @@
 ---
-layout: default
+layout: page
 title: Final Project
 permalink: /final-project/
 ---
-# Final Project

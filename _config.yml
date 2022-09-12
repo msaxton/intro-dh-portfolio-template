@@ -42,7 +42,9 @@ header_pages:
 
 collections:
   evaluations:
+    output: true
   exercises:
+    output: true
   lessons: 
     output: true
 

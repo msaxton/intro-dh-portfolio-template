@@ -1,10 +1,14 @@
 ---
-layout: default
+layout: page
 title: Project Evaluations
 permalink: /dh-project-evaluations/
 ---
 
-# DH Project Evaluations
-
-## [SAMPLE: HathiTrust Bookworm]({{ site.baseurl }}{% link evaluations-bookworm.md %})
-This tool produced by the HathiTrust explores word frequencies across thousands of texts.
+<ul>
+  {% for evaluation in site.evaluation %}
+    <li>
+      <h2><a href="{{ evaluation.url }}">{{ evaluation.title }}</a></h2>
+      <p>{{ evaluation.description }}<p>
+    </li>
+  {% endfor %}
+</ul>
