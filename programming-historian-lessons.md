@@ -3,9 +3,9 @@ layout: default
 title: Lessons
 permalink: /programming-historian-lessons/
 ---
-# Programming Historian Lessons
+<!---# Programming Historian Lessons
 ## [SAMPLE: Introduction to stylometry with Python]({{ site.baseurl }}{% link lessons-stylometry.md %})
-This lesson uses Python packages to discover the authors fo the federalist papers.
+This lesson uses Python packages to discover the authors fo the federalist papers.--->
 
 <h1>Programming Historian Lessons</h1>
 
