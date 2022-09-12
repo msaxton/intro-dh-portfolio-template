@@ -123,31 +123,31 @@ for author in authors:
 
 
     
-![png](/assets/output_6_0.png)
+![png](../assets/output_6_0.png)
     
 
 
 
     
-![png](/assets/output_6_1.png)
+![png](../assets/output_6_1.png)
     
 
 
 
     
-![png](/assets/output_6_2.png)
+![png](../assets/output_6_2.png)
     
 
 
 
     
-![png]/assets/(output_6_3.png)
+![png](../assets/output_6_3.png)
     
 
 
 
     
-![png](/assets/output_6_4.png)
+![png](../assets/output_6_4.png)
     
 
 
