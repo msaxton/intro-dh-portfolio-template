@@ -1,3 +1,8 @@
+---
+layout: page
+title: TEI Exercise
+description: Select exercises from Python Crash Course
+---
 <div n="16" type="chapter">
     <pb n="381" facs="tcp:0034700102:396" />
     <head>
