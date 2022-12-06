@@ -3,7 +3,7 @@ layout: page
 title: TEI Exercise
 description: Select exercises from Python Crash Course
 ---
-<div n="16" type="chapter">
+```<div n="16" type="chapter">
     <pb n="381" facs="tcp:0034700102:396" />
     <head>
         CHAP. XVI.
@@ -34,4 +34,4 @@ description: Select exercises from Python Crash Course
         <g ref="char:EOLhyphen" />
         variably maintained by the faith of the people, the incredulity of philoſophers, and the policy of the Roman ſenate and emperors, we are at a loſs to diſcover what new offence the Chriſtians had committed, what new provocation could exaſperate the mild indifference of antiquity, and what new motives could urge the Roman princes, who beheld without concern a thouſand forms of religion ſubſiſting in peace under their
     </p>
-</div>
+</div>```
